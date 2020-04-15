@@ -5,6 +5,10 @@ body {
     background-color: cornflowerblue;
 }
 
+a {
+    float: right;
+  }
+
 .box {
     width: 260px;
     padding: 40px;
